@@ -1,0 +1,22 @@
+{
+  "name": "sudokugame",
+  "version": "1.0.0",
+  "description": "A simple Sudoku using JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShreyasheeS/sudokuGame.git"
+  },
+  "keywords": [
+    "sudoku"
+  ],
+  "author": "Shreyashee Sinha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShreyasheeS/sudokuGame/issues"
+  },
+  "homepage": "https://github.com/ShreyasheeS/sudokuGame#readme"
+}
